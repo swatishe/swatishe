@@ -10,7 +10,7 @@
 ### Software Engineer · Backend Systems · AI & LLMs · Hospitality Tech
 
 <p align="center">
-  <em>A girl who loves building things that scale 💜 — 7+ years crafting APIs, microservices & enterprise integrations, now diving deep into AI/ML, LLMs, and modern cloud-native systems.</em>
+  <em>A girl who loves building things that scale 💜 - 7+ years crafting APIs, microservices & enterprise integrations, now diving deep into AI/ML, LLMs, and modern cloud-native systems.</em>
 </p>
 
 <br/>
@@ -30,7 +30,7 @@
 swati = {
     "role":        "Software Engineer (M.P.S. UMBC '26)",
     "location":    "Fairfax, VA  📍",
-    "experience":  "7+ years — backend systems, microservices, enterprise APIs",
+    "experience":  "7+ years - backend systems, microservices, enterprise APIs",
     "domains":     ["Hospitality Tech", "Payment Systems", "AI/LLM Applications"],
     "currently":   "Graduate Assistant @ UMBC · Building AI-powered full-stack projects",
     "learning":    ["FastAPI", "LLM Orchestration", "Vector DBs", "Prompt Engineering"],
@@ -160,21 +160,21 @@ swati = {
 ## 🏢 Experience Highlights
 
 ```
-📍 UMBC — Graduate Assistant, Software Engineering       (Aug 2025 – May 2026)
-📍 Cybage / Amadeus Hospitality — System Analyst         (Apr 2023 – Jul 2024)
-📍 Cybage / Amadeus Hospitality — Senior Software Eng    (Apr 2021 – Mar 2023)
-📍 Cybage / TravelClick — Software Engineer              (Jun 2017 – Mar 2021)
-📍 Persistent Systems — Software Developer Intern        (Aug 2016 – Jan 2017)
+📍 UMBC — Graduate Assistant, Software Engineering       (Aug 2025 - May 2026)
+📍 Cybage / Amadeus Hospitality - System Analyst         (Apr 2023 - Jul 2024)
+📍 Cybage / Amadeus Hospitality - Senior Software Eng    (Apr 2021 - Mar 2023)
+📍 Cybage / TravelClick - Software Engineer              (Jun 2017 - Mar 2021)
+📍 Persistent Systems - Software Developer Intern        (Aug 2016 - Jan 2017)
 ```
 
 ---
 
 ## 🎓 Education
 
-🏛️ **M.P.S. Software Engineering** — University of Maryland, Baltimore County (UMBC), 2026
+🏛️ **M.P.S. Software Engineering** - University of Maryland, Baltimore County (UMBC), 2026
 > *AI Agent Computing · Advanced Software Engineering · System Analysis & Design · Computer Security*
 
-🏛️ **B.E. Computer Technology** — Yeshwantrao Chavan College of Engineering, 2017
+🏛️ **B.E. Computer Technology** - Yeshwantrao Chavan College of Engineering, 2017
 
 ---
 
