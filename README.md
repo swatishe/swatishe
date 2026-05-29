@@ -30,14 +30,10 @@
   <tr>
     <td width="58%" valign="top">
       <ul>
-        <li>I'm a Software Engineer with <strong>7+ years</strong>of experience building backend systems that power real-world scale - from global hotel booking platforms processing thousands of daily transactions to multi-gateway payment microservices trusted by enterprise clients worldwide. </li>
-
-<li>My journey started in hospitality and travel tech, where I spent years at <strong>Amadeus Hospitality</strong> and <strong>TravelClick</strong> designing REST APIs, containerizing services with Docker & Kubernetes, and integrating third-party systems that had to work flawlessly every time. I've led architectural decisions, mentored engineers, and shipped 10+ product features across long-running enterprise engagements.</li>
-
-<li>Today, I'm channeling that foundation into something new. As a <strong>Graduate Assistant at UMBC</strong>, I'm deepening my expertise in <strong>AI Agent Computing, LLMs, Prompt Engineering, and RAG pipelines</strong> and applying it directly to full-stack projects that merge backend rigor with modern AI capabilities.</li>
-
-<li>I'm the kind of engineer who cares about <strong>why</strong> a system is designed a certain way, not just <strong>how</strong> to build it. Whether it's debugging a stubborn Expedia sync failure through Kibana logs or rethinking an API contract to improve partner onboarding, I'm drawn to problems that require both precision and creativity.
-</li>
+      <li>I'm a <strong>Software Engineer</strong> with <strong>7+ years</strong> of experience building backend systems that power real-world applications, from global hotel booking platforms to enterprise payment integrations handling thousands of transactions every day.</li>
+    <li>My journey began in the travel and hospitality industry, where I spent years at <strong>Amadeus Hospitality</strong> and <strong>TravelClick</strong> designing APIs, integrating third-party platforms, and delivering scalable solutions used by hotels and partners worldwide.</li>
+    <li>After completing my <strong>Master's in Information Systems at UMBC</strong>, I expanded my focus to <strong>AI Agent Computing, LLMs, Prompt Engineering, and full-stack development</strong>, combining my enterprise software background with modern AI technologies.</li>
+    <li>What excites me most is solving complex problems—whether it's troubleshooting a critical production issue, designing scalable architectures, or building intelligent applications that create meaningful business impact.</li>
       </ul>
     </td>
     <td width="42%" align="center" valign="middle">
