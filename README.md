@@ -33,7 +33,7 @@
       <li>I'm a <strong>Software Engineer</strong> with <strong>7+ years</strong> of experience building backend systems that power real-world applications, from global hotel booking platforms to enterprise payment integrations handling thousands of transactions every day.</li>
     <li>My journey began in the travel and hospitality industry, where I spent years at <strong>Amadeus Hospitality</strong> and <strong>TravelClick</strong> designing APIs, integrating third-party platforms, and delivering scalable solutions used by hotels and partners worldwide.</li>
     <li>After completing my <strong>Master's in Information Systems at UMBC</strong>, I expanded my focus to <strong>AI Agent Computing, LLMs, Prompt Engineering, and full-stack development</strong>, combining my enterprise software background with modern AI technologies.</li>
-    <li>What excites me most is solving complex problems—whether it's troubleshooting a critical production issue, designing scalable architectures, or building intelligent applications that create meaningful business impact.</li>
+    <li>What excites me most is solving complex problems; whether it's troubleshooting a critical production issue, designing scalable architectures, or building intelligent applications that create meaningful business impact.</li>
       </ul>
     </td>
     <td width="42%" align="center" valign="middle">
