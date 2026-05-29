@@ -207,7 +207,7 @@
 
 <table>
   <tr>
-    <td><strong>🎓 Graduate Assistant — Software Engineering</strong></td>
+    <td><strong>🎓 Graduate Assistant - Software Engineering</strong></td>
     <td align="right"><code>Aug 2025 – May 2026</code></td>
   </tr>
   <tr>
