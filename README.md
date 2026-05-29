@@ -5,9 +5,7 @@
 
 <br/>
 
-# Hi, I'm Swati Shende
-
-### Software Engineer &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; AI & LLMs &nbsp;·&nbsp; Hospitality Tech
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:22c55e&text=Hi,%20I'm%20Swati%20Shende&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=46&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20and%20LLMs%20%7C%20Enterprise%20Systems&descAlign=50&descAlignY=58&descSize=18" width="100%" />
 
 <p align="center">
   <em>7+ years designing scalable backend systems, microservices & enterprise API integrations<br/>for global hospitality and travel technology platforms - now diving deep into AI/ML & LLMs.</em>
