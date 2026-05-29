@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- BANNER GIF -->
-<img src="Assets/output.gif" alt="Swati Shende - Software Engineer" width="100%" />
+<!-- BANNER -->
+<img src="Assets/output.gif" alt="Swati Shende — Software Engineer" width="100%" />
 
 <br/>
 
-# Hi, I'm Swati Shende 👩‍💻✨
+# Swati Shende
 
-### Software Engineer · Backend Systems · AI & LLMs · Hospitality Tech
+### Software Engineer &nbsp;·&nbsp; Backend Systems &nbsp;·&nbsp; AI & LLMs &nbsp;·&nbsp; Hospitality Tech
 
 <p align="center">
-  <em>A girl who loves building things that scale 💜 - 7+ years crafting APIs, microservices & enterprise integrations, now diving deep into AI/ML, LLMs, and modern cloud-native systems.</em>
+  <em>7+ years designing scalable backend systems, microservices & enterprise API integrations<br/>for global hospitality and travel technology platforms — now diving deep into AI/ML & LLMs.</em>
 </p>
 
 <br/>
@@ -24,18 +24,18 @@
 
 ---
 
-## 🌸 About Me
+## 👩‍💻 About Me
 
 ```python
 swati = {
-    "role":        "Software Engineer (M.P.S. UMBC '26)",
-    "location":    "Fairfax, VA  📍",
-    "experience":  "7+ years - backend systems, microservices, enterprise APIs",
-    "domains":     ["Hospitality Tech", "Payment Systems", "AI/LLM Applications"],
-    "currently":   "Graduate Assistant @ UMBC · Building AI-powered full-stack projects",
-    "learning":    ["FastAPI", "LLM Orchestration", "Vector DBs", "Prompt Engineering"],
-    "ask_me":      ["System Design", "REST APIs", "Microservices", "Spring Boot", "Docker/K8s"],
-    "fun_fact":    "Presented at a national tech conference before graduating 🎤"
+    "role":        "Software Engineer  ·  M.P.S. Candidate @ UMBC '26",
+    "location":    "Fairfax, VA",
+    "experience":  "7+ years — backend systems, microservices, enterprise APIs",
+    "domains":     ["Hospitality Tech", "Travel Technology", "Payment Systems", "AI/LLM Applications"],
+    "currently":   "Graduate Assistant @ UMBC · Building AI-powered full-stack platforms",
+    "learning":    ["FastAPI", "LLM Orchestration", "Vector DBs", "Prompt Engineering", "RAG Pipelines"],
+    "ask_me":      ["System Design", "REST APIs", "Microservices", "Spring Boot", "Docker / K8s"],
+    "fun_fact":    "Presented system design research at SPANDAN National Conference 🎤"
 }
 ```
 
@@ -46,9 +46,9 @@ swati = {
 | Area | Details |
 |------|---------|
 | 🎓 **Graduate Research** | API design, auth workflows & AI Agent Computing @ UMBC |
-| 🤖 **AI/ML Projects** | LLM integrations, Prompt Engineering, Vector Databases |
-| 🌐 **Full-Stack** | React + Django/FastAPI + PostgreSQL capstone platform |
-| ✍️ **Content** | Sharing engineering insights on [LinkedIn](https://www.linkedin.com/in/swati-shende/) |
+| 🤖 **AI / ML** | LLM integrations, Prompt Engineering, Vector Databases, RAG pipelines |
+| 🌐 **Full-Stack** | React + Django + PostgreSQL capstone platform (Student Sponsor Platform) |
+| 🔧 **Open Source** | Contributing to backend tooling & exploring FastAPI ecosystem |
 
 ---
 
@@ -79,7 +79,7 @@ swati = {
 
 ### ☁️ Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,github,git" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github" />
 </p>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -91,7 +91,7 @@ swati = {
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,oracle" />
 </p>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -104,8 +104,9 @@ swati = {
 ### 🤖 AI / ML
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6D00?style=flat-square&logo=openai&logoColor=white)
-![Vector DBs](https://img.shields.io/badge/Vector_DBs-00B4D8?style=flat-square&logo=pinecone&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square&logo=langchain&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector_DBs-00B4D8?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-8A2BE2?style=flat-square&logoColor=white)
+![AI Agent Computing](https://img.shields.io/badge/AI_Agent_Computing-0D1117?style=flat-square&logo=anthropic&logoColor=white)
 
 ### 🧰 Tools & Platforms
 <p>
@@ -116,7 +117,7 @@ swati = {
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-47A248?style=flat-square&logo=scrumalliance&logoColor=white)
+![Agile / Scrum](https://img.shields.io/badge/Agile_%2F_Scrum-47A248?style=flat-square&logoColor=white)
 
 ---
 
@@ -124,8 +125,9 @@ swati = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=swatishe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatishe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=swatishe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatishe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -145,46 +147,138 @@ swati = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🎓 [**Student Sponsor Platform**](https://github.com/swatishe) | Full-stack capstone connecting students & sponsors with role-based auth & matching | `Django` `ReactJS` `PostgreSQL` |
-| 💳 **Payment Gateway Microservices** | Modular orchestration layer for XPay / Adyen / Cybersource across multi-region hotel deployments | `Java` `Spring Boot` `Docker` |
-| 💬 **Real-Time LAN Comm App** | Full-duplex messaging & file transfer; presented at SPANDAN National Conference 2017 | `Java` `WebSocket` `Client-Server` |
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Student Sponsor Platform</h3>
+      <p><em>Capstone · UMBC (Spring 2026)</em></p>
+      <p>Full-stack platform connecting students seeking sponsorships with potential sponsors. Features user authentication, profile management, real-time communication, and an intelligent matching workflow.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ReactJS-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST_API-FF6F00?style=flat-square&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💳 Payment Gateway Microservices</h3>
+      <p><em>Enterprise · Amadeus Hospitality (TravelClick)</em></p>
+      <p>Modular payment orchestration layer integrating XPay, Adyen, and Cybersource via independent microservices, improving transaction reliability across multi-region enterprise hotel deployments.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💬 Real-Time LAN Communication App</h3>
+      <p><em>Research · Persistent Systems (2017)</em></p>
+      <p>Full-duplex real-time messaging and file-transfer tool over a local network using WebSocket and Client-Server architecture. Presented at <strong>SPANDAN — National Conference on Advances in Engineering and Technology</strong>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Client--Server_Architecture-0052CC?style=flat-square&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔗 Expedia Quick Connect Integration</h3>
+      <p><em>Enterprise · Amadeus Hospitality</em></p>
+      <p>Diagnosed and resolved third-party synchronization failures in Expedia Quick Connect using Postman and Kibana log analysis, significantly reducing integration errors and improving booking reliability.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REST_APIs-FF6F00?style=flat-square&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏢 Experience Highlights
+## 💼 Experience
 
-```
-📍 UMBC — Graduate Assistant, Software Engineering       (Aug 2025 - May 2026)
-📍 Cybage / Amadeus Hospitality - System Analyst         (Apr 2023 - Jul 2024)
-📍 Cybage / Amadeus Hospitality - Senior Software Eng    (Apr 2021 - Mar 2023)
-📍 Cybage / TravelClick - Software Engineer              (Jun 2017 - Mar 2021)
-📍 Persistent Systems - Software Developer Intern        (Aug 2016 - Jan 2017)
-```
+<table>
+  <tr>
+    <td><strong>🎓 Graduate Assistant — Software Engineering</strong></td>
+    <td align="right"><code>Aug 2025 – May 2026</code></td>
+  </tr>
+  <tr>
+    <td colspan="2"><em>UMBC, Dept. of Professional Studies · Baltimore, MD</em>
+    <br/>Supported faculty research on API design, authentication workflows & database integrations. Applied AI Agent Computing and advanced software engineering concepts to full-stack academic projects. Collaborated on academic technology initiatives, strengthening technical communication across engineering and non-engineering teams.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><strong>🔷 System Analyst</strong></td>
+    <td align="right"><code>Apr 2023 – Jul 2024</code></td>
+  </tr>
+  <tr>
+    <td colspan="2"><em>Cybage Software Pvt. Ltd. (Client: Amadeus Hospitality) · Pune, India</em>
+    <br/>Architected and optimized REST APIs in Spring Boot/Java for the Amadeus CRS platform, improving backend response times for thousands of daily global booking transactions. Deployed containerized microservices with Docker & Kubernetes. Led Agile sprint planning and diagnosed Expedia Quick Connect sync failures via Postman & Kibana, significantly cutting third-party integration errors.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><strong>🔶 Senior Software Engineer</strong></td>
+    <td align="right"><code>Apr 2021 – Mar 2023</code></td>
+  </tr>
+  <tr>
+    <td colspan="2"><em>Cybage Software Pvt. Ltd. (Client: Amadeus Hospitality) · Pune, India</em>
+    <br/>Redesigned third-party booking API structures, improving conversion rates and driving revenue growth for enterprise hotel clients. Streamlined GDS meta-search integrations with modular API frameworks, cutting partner onboarding timelines. Automated regression suites with JUnit + Jenkins CI/CD, reducing post-release defects. Mentored junior engineers on REST API design and Agile best practices.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><strong>🔹 Software Engineer</strong></td>
+    <td align="right"><code>Jun 2017 – Mar 2021</code></td>
+  </tr>
+  <tr>
+    <td colspan="2"><em>Cybage Software Pvt. Ltd. (Client: TravelClick) · Pune, India</em>
+    <br/>Engineered cloud-ready revenue management modules in Java & REST APIs for high-traffic hotel booking platforms. Implemented multi-gateway payment integrations (XPay, Adyen, Cybersource) via microservices, reducing payment failures. Designed and maintained relational database schemas in PostgreSQL & Oracle for high-volume booking systems. Delivered 10+ product features on schedule over a 4-year engagement.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td><strong>🔸 Software Developer Intern</strong></td>
+    <td align="right"><code>Aug 2016 – Jan 2017</code></td>
+  </tr>
+  <tr>
+    <td colspan="2"><em>Persistent Systems Ltd. · Nagpur, India</em>
+    <br/>Built a real-time LAN communication application using WebSocket & Client-Server architecture. Presented system design research at SPANDAN — National Conference on Advances in Engineering and Technology.
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🎓 Education
 
-🏛️ **M.P.S. Software Engineering** - University of Maryland, Baltimore County (UMBC), 2026
-> *AI Agent Computing · Advanced Software Engineering · System Analysis & Design · Computer Security*
+| Degree | Institution | Year |
+|--------|------------|------|
+| **M.P.S., Software Engineering** | University of Maryland, Baltimore County (UMBC) | 2026 |
+| **B.E., Computer Technology** | Yeshwantrao Chavan College of Engineering, Nagpur | 2017 |
 
-🏛️ **B.E. Computer Technology** - Yeshwantrao Chavan College of Engineering, 2017
+> **UMBC Coursework:** Advanced Software Engineering · Algorithms · System Analysis & Design · Project Management · Software Testing · AI Agent Computing · Computer Security
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect & Build Something Great!
+### 💬 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-FF5722?style=for-the-badge)](https://swati-shende-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/swati-shende/)
-[![Email](https://img.shields.io/badge/📧_Email-Say_Hello-EA4335?style=for-the-badge)](mailto:swati1209shende@gmail.com)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swati1209shende@gmail.com)
 
 <br/>
 
@@ -192,7 +286,6 @@ swati = {
 
 <br/>
 
-*"Passionate about clean code, scalable systems, and endless curiosity."* 💜✨
+*"Passionate about clean code, scalable systems, and continuous learning."* ✨
 
 </div>
-
