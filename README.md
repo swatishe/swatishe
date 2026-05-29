@@ -7,10 +7,10 @@
 
 # Swati Shende
 
-### Software Engineer &nbsp;·&nbsp; Backend Systems &nbsp;·&nbsp; AI & LLMs &nbsp;·&nbsp; Hospitality Tech
+### Software Engineer &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; AI & LLMs &nbsp;·&nbsp; Hospitality Tech
 
 <p align="center">
-  <em>7+ years designing scalable backend systems, microservices & enterprise API integrations<br/>for global hospitality and travel technology platforms — now diving deep into AI/ML & LLMs.</em>
+  <em>7+ years designing scalable backend systems, microservices & enterprise API integrations<br/>for global hospitality and travel technology platforms - now diving deep into AI/ML & LLMs.</em>
 </p>
 
 <br/>
@@ -26,18 +26,19 @@
 
 ## 👩‍💻 About Me
 
-```python
-swati = {
-    "role":        "Software Engineer  ·  M.P.S. Candidate @ UMBC '26",
-    "location":    "Fairfax, VA",
-    "experience":  "7+ years — backend systems, microservices, enterprise APIs",
-    "domains":     ["Hospitality Tech", "Travel Technology", "Payment Systems", "AI/LLM Applications"],
-    "currently":   "Graduate Assistant @ UMBC · Building AI-powered full-stack platforms",
-    "learning":    ["FastAPI", "LLM Orchestration", "Vector DBs", "Prompt Engineering", "RAG Pipelines"],
-    "ask_me":      ["System Design", "REST APIs", "Microservices", "Spring Boot", "Docker / K8s"],
-    "fun_fact":    "Presented system design research at SPANDAN National Conference 🎤"
-}
-```
+I'm a Software Engineer with **7+ years** of experience building backend systems that power real-world scale - from global hotel booking platforms processing thousands of daily transactions to multi-gateway payment microservices trusted by enterprise clients worldwide.
+
+My journey started in hospitality and travel tech, where I spent years at **Amadeus Hospitality** and **TravelClick** designing REST APIs, containerizing services with Docker & Kubernetes, and integrating third-party systems that had to work flawlessly every time. I've led architectural decisions, mentored engineers, and shipped 10+ product features across long-running enterprise engagements.
+
+Today, I'm channeling that foundation into something new. As a **Graduate Assistant at UMBC**, I'm deepening my expertise in **AI Agent Computing, LLMs, Prompt Engineering, and RAG pipelines** and applying it directly to full-stack projects that merge backend rigor with modern AI capabilities.
+
+I'm the kind of an engineer who cares about *why* a system is designed a certain way, not just *how* to build it. Whether it's debugging a stubborn Expedia sync failure through Kibana logs or rethinking an API contract to improve partner onboarding, I'm drawn to problems that require both precision and creativity.
+
+> 🎤 **Fun fact:** I earned a Silver Medal for academic excellence and later went on to lead enterprise software projects for a global hospitality client.
+
+**Currently exploring:** `FastAPI` · `LLM Orchestration` · `Vector Databases` · `RAG Pipelines`
+
+**Ask me about:** `System Design` · `REST APIs` · `Microservices` · `Spring Boot` · `Docker / K8s`
 
 ---
 
@@ -137,11 +138,6 @@ swati = {
 
 </div>
 
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=swatishe&theme=tokyonight&no-frame=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -256,7 +252,7 @@ swati = {
   </tr>
   <tr>
     <td colspan="2"><em>Persistent Systems Ltd. · Nagpur, India</em>
-    <br/>Built a real-time LAN communication application using WebSocket & Client-Server architecture. Presented system design research at SPANDAN — National Conference on Advances in Engineering and Technology.
+    <br/>Built a real-time LAN communication application using WebSocket & Client-Server architecture. Presented system design research at SPANDAN - National Conference on Advances in Engineering and Technology.
     </td>
   </tr>
 </table>
@@ -265,12 +261,12 @@ swati = {
 
 ## 🎓 Education
 
-| Degree | Institution | Year |
-|--------|------------|------|
-| **M.P.S., Software Engineering** | University of Maryland, Baltimore County (UMBC) | 2026 |
-| **B.E., Computer Technology** | Yeshwantrao Chavan College of Engineering, Nagpur | 2017 |
+| Degree | Institution |
+|--------|------------|
+| **M.P.S., Software Engineering** | University of Maryland, Baltimore County (UMBC) |
+| **B.E., Computer Technology** | Yeshwantrao Chavan College of Engineering, Nagpur |
 
-> **UMBC Coursework:** Advanced Software Engineering · Algorithms · System Analysis & Design · Project Management · Software Testing · AI Agent Computing · Computer Security
+> **UMBC Coursework:** Advanced Software Engineering · Design, Analysis & Algorithms · System Analysis & Design · Project Management · Software Testing · AI Agent Computing · Ethics in Software Engineering · Advanced Computer Architecture
 
 ---
 
