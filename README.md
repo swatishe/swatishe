@@ -26,13 +26,25 @@
 
 ## 👩‍💻 About Me
 
-I'm a Software Engineer with **7+ years** of experience building backend systems that power real-world scale - from global hotel booking platforms processing thousands of daily transactions to multi-gateway payment microservices trusted by enterprise clients worldwide.
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <ul>
+        <li>I'm a Software Engineer with **7+ years** of experience building backend systems that power real-world scale - from global hotel booking platforms processing thousands of daily transactions to multi-gateway payment microservices trusted by enterprise clients worldwide. </li>
 
-My journey started in hospitality and travel tech, where I spent years at **Amadeus Hospitality** and **TravelClick** designing REST APIs, containerizing services with Docker & Kubernetes, and integrating third-party systems that had to work flawlessly every time. I've led architectural decisions, mentored engineers, and shipped 10+ product features across long-running enterprise engagements.
+<li>My journey started in hospitality and travel tech, where I spent years at **Amadeus Hospitality** and **TravelClick** designing REST APIs, containerizing services with Docker & Kubernetes, and integrating third-party systems that had to work flawlessly every time. I've led architectural decisions, mentored engineers, and shipped 10+ product features across long-running enterprise engagements.</li>
 
-Today, I'm channeling that foundation into something new. As a **Graduate Assistant at UMBC**, I'm deepening my expertise in **AI Agent Computing, LLMs, Prompt Engineering, and RAG pipelines** and applying it directly to full-stack projects that merge backend rigor with modern AI capabilities.
+<li>Today, I'm channeling that foundation into something new. As a **Graduate Assistant at UMBC**, I'm deepening my expertise in **AI Agent Computing, LLMs, Prompt Engineering, and RAG pipelines** and applying it directly to full-stack projects that merge backend rigor with modern AI capabilities.</li>
 
-I'm the kind of an engineer who cares about *why* a system is designed a certain way, not just *how* to build it. Whether it's debugging a stubborn Expedia sync failure through Kibana logs or rethinking an API contract to improve partner onboarding, I'm drawn to problems that require both precision and creativity.
+<li>I'm the kind of engineer who cares about *why* a system is designed a certain way, not just *how* to build it. Whether it's debugging a stubborn Expedia sync failure through Kibana logs or rethinking an API contract to improve partner onboarding, I'm drawn to problems that require both precision and creativity.
+</li>
+      </ul>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="Assets/gun-sirichote-night-workflow3-animated3-edit.gif" alt="Animated night workflow" width="100%" />
+    </td>
+  </tr>
+</table>
 
 > 🎤 **Fun fact:** I earned a Silver Medal for academic excellence and later went on to lead enterprise software projects for a global hospitality client.
 
